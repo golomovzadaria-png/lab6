@@ -1,0 +1,34 @@
+YOLOX-Nano  mAP50-95=0.322 mAP50=0.489 17 ms/img
+YOLOX-Nano TTA mAP50-95=0.336 mAP50=0.508 32 ms/img
+YOLOX-Tiny  mAP50-95=0.430 mAP50=0.612 46 ms/img
+YOLOX-Tiny TTA mAP50-95=0.434 mAP50=0.615 91 ms/img
+YOLOX-S  mAP50-95=0.508 mAP50=0.714 135 ms/img
+YOLOX-S TTA mAP50-95=0.513 mAP50=0.710 274 ms/img
+YOLOX-M  mAP50-95=0.570 mAP50=0.749 368 ms/img
+YOLOX-M TTA mAP50-95=0.587 mAP50=0.763 733 ms/img
+YOLOX-Nano class-aware NMS mAP50-95=0.334 mAP50=0.507
+YOLOX-Tiny class-aware NMS mAP50-95=0.441 mAP50=0.626
+YOLOX-S class-aware NMS mAP50-95=0.525 mAP50=0.743
+YOLOX-M class-aware NMS mAP50-95=0.592 mAP50=0.778
+{
+ "YOLOX-Nano": {
+  "ms_median": 10.26564800002916,
+  "fps": 97.41226272293376,
+  "size_mb": 3.489882469177246
+ },
+ "YOLOX-Tiny": {
+  "ms_median": 39.81147550001651,
+  "fps": 25.118385777979647,
+  "size_mb": 19.28297233581543
+ },
+ "YOLOX-S": {
+  "ms_median": 120.35100099996043,
+  "fps": 8.309029353235946,
+  "size_mb": 34.196855545043945
+ },
+ "YOLOX-M": {
+  "ms_median": 337.0143589999657,
+  "fps": 2.9672326216821574,
+  "size_mb": 96.56881713867188
+ }
+}

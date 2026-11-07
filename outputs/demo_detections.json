@@ -1,0 +1,161 @@
+[
+ {
+  "image": "dog.jpg",
+  "model": "YOLOX-Nano",
+  "n": 3,
+  "objects": [
+   "bicycle 0.80",
+   "car 0.80",
+   "dog 0.86"
+  ]
+ },
+ {
+  "image": "dog.jpg",
+  "model": "YOLOX-Tiny",
+  "n": 3,
+  "objects": [
+   "bicycle 0.89",
+   "car 0.70",
+   "cat 0.56"
+  ]
+ },
+ {
+  "image": "dog.jpg",
+  "model": "YOLOX-S",
+  "n": 4,
+  "objects": [
+   "bicycle 0.95",
+   "dog 0.91",
+   "potted plant 0.44",
+   "truck 0.61"
+  ]
+ },
+ {
+  "image": "dog.jpg",
+  "model": "YOLOX-M",
+  "n": 3,
+  "objects": [
+   "bicycle 0.97",
+   "dog 0.94",
+   "truck 0.84"
+  ]
+ },
+ {
+  "image": "bus.jpg",
+  "model": "YOLOX-Nano",
+  "n": 4,
+  "objects": [
+   "bus 0.91",
+   "person 0.69",
+   "person 0.81",
+   "person 0.85"
+  ]
+ },
+ {
+  "image": "bus.jpg",
+  "model": "YOLOX-Tiny",
+  "n": 4,
+  "objects": [
+   "bus 0.95",
+   "person 0.85",
+   "person 0.88",
+   "person 0.88"
+  ]
+ },
+ {
+  "image": "bus.jpg",
+  "model": "YOLOX-S",
+  "n": 5,
+  "objects": [
+   "bus 0.94",
+   "person 0.54",
+   "person 0.89",
+   "person 0.89",
+   "person 0.91"
+  ]
+ },
+ {
+  "image": "bus.jpg",
+  "model": "YOLOX-M",
+  "n": 5,
+  "objects": [
+   "bus 0.95",
+   "person 0.59",
+   "person 0.91",
+   "person 0.91",
+   "person 0.91"
+  ]
+ },
+ {
+  "image": "kitchen.jpg",
+  "model": "YOLOX-Nano",
+  "n": 2,
+  "objects": [
+   "chair 0.87",
+   "cup 0.32"
+  ]
+ },
+ {
+  "image": "kitchen.jpg",
+  "model": "YOLOX-Tiny",
+  "n": 4,
+  "objects": [
+   "chair 0.51",
+   "chair 0.95",
+   "microwave 0.69",
+   "refrigerator 0.69"
+  ]
+ },
+ {
+  "image": "kitchen.jpg",
+  "model": "YOLOX-S",
+  "n": 17,
+  "objects": [
+   "bottle 0.30",
+   "bottle 0.31",
+   "bottle 0.32",
+   "bottle 0.46",
+   "bottle 0.59",
+   "chair 0.93",
+   "cup 0.35",
+   "cup 0.45",
+   "microwave 0.75",
+   "refrigerator 0.79",
+   "wine glass 0.30",
+   "wine glass 0.37",
+   "wine glass 0.38",
+   "wine glass 0.40",
+   "wine glass 0.50",
+   "wine glass 0.57",
+   "wine glass 0.66"
+  ]
+ },
+ {
+  "image": "kitchen.jpg",
+  "model": "YOLOX-M",
+  "n": 21,
+  "objects": [
+   "bottle 0.40",
+   "bottle 0.41",
+   "bottle 0.46",
+   "bottle 0.48",
+   "bottle 0.57",
+   "chair 0.94",
+   "cup 0.46",
+   "cup 0.50",
+   "cup 0.55",
+   "dining table 0.30",
+   "microwave 0.89",
+   "oven 0.42",
+   "refrigerator 0.85",
+   "wine glass 0.32",
+   "wine glass 0.32",
+   "wine glass 0.34",
+   "wine glass 0.45",
+   "wine glass 0.46",
+   "wine glass 0.52",
+   "wine glass 0.56",
+   "wine glass 0.57"
+  ]
+ }
+]
